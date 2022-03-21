@@ -1,0 +1,13 @@
+{
+  "name": "inkdrop-json-to-go",
+  "main": "./lib/inkdrop-json-to-go",
+  "version": "1.0.0",
+  "description": "A way to parse json to go struct",
+  "keywords": [],
+  "repository": "https://github.com/jpastorm/inkdrop-json-to-go",
+  "license": "MIT",
+  "engines": {
+    "inkdrop": "^5.3.1"
+  },
+  "dependencies": {}
+}
