@@ -1,5 +1,5 @@
 {
-  "name": "inkdrop-json-to-go",
+  "name": "json-to-go",
   "main": "./lib/inkdrop-json-to-go",
   "version": "1.0.0",
   "description": "A way to parse json to go struct",
