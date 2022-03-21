@@ -13,13 +13,14 @@ ipm install json-to-go
     ```goStruct
     {
       "name":"Inkdrop",
-        "Number": 1,
+      "Number": 1,
       "type": "App"
     }
     ```
 
 It will be rendered as:
 
+![](https://github.com/jpastorm/inkdrop-json-to-go/raw/master/render.png)
 
 
 ## Changelog
